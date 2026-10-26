@@ -57,4 +57,3 @@ Edit ``starter/index.html``.
 Do not modify the automated tests.
 
 Your final submission must contain a working `index.html`.
-
